@@ -1,0 +1,6 @@
+altair
+pandas
+streamlit
+python==3.13.9
+plotly
+openpyxl
